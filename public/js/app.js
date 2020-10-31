@@ -1,7 +1,7 @@
 console.log("Loaded client side js");
 
 
-const url="http://localhost:3000/weather?location="
+const url="/weather?location="
 
 
 
